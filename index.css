@@ -1,0 +1,42 @@
+body{
+    margin: 0%;
+    padding: auto;
+    box-sizing: border-box;
+  
+  }
+  
+  *{
+    font-family:'Times New Roman', Times, serif;
+  }
+  
+  .navbar{
+    position: relative;
+  }
+  
+  .bt{
+   position: absolute;
+   right: 5%;
+   outline: none;
+   border: none;
+  }
+  
+  .bt a h2{
+    position: absolute;
+    right: 5%;
+  }
+  
+  .cl{
+    width: 60%;
+    height: 50vh;
+    position: relative;
+  }
+  
+  .cl .pic{
+    width: 30vh;
+    margin: 50px 50px;
+  }
+  
+  .col2{
+    margin-top: 90px;
+    margin-left: 0%;
+  }
